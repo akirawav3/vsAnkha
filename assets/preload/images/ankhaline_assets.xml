@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ankhaline_assets.png"><SubTexture name="Ankha idle0000" x="0" y="0" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+<SubTexture name="Ankha idle0001" x="549" y="0" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+<SubTexture name="Ankha idle0002" x="1098" y="0" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+<SubTexture name="Ankha idle0003" x="1647" y="0" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+<SubTexture name="Ankha idle0004" x="0" y="869" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+<SubTexture name="Ankha idle0005" x="549" y="869" width="549" height="869" frameX="0" frameY="0" frameWidth="549" frameHeight="869" />
+</TextureAtlas>
