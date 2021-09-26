@@ -700,7 +700,7 @@ class PlayState extends MusicBeatState
 					add(evilSnow);
 					}
 
-			case 'camel-by-camel': 
+			case 'camel-by-camel' | 'kk-bazaar': 
 			{
 				curStage = 'egypt';
 
